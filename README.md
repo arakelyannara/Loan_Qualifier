@@ -1,6 +1,12 @@
 # Loan qualifier application
 
-    This is a python command-line interface application that allows users to see qualifying loans from lenders quickly and easily. The application works by taking in a CSV file to calculate and filter qualifying loans based on a number of questions asked to the user to evaluate a list of qualifying loans and saves the list of loans to the 'qualifying_loans.csv' file.
+This is a python command-line interface application that allows users 
+to see qualifying loans from lenders quickly and easily. 
+The application works by taking in a CSV file to calculate and filter 
+qualifying loans based on a number of questions asked to the user 
+to evaluate a list of qualifying loans and saves the list of loans 
+to the 'qualifying_loans.csv' file.
+
 ---
 
 ## Technologies
